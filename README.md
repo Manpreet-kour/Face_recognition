@@ -37,7 +37,7 @@ Clone the repository:
 
 
 Copy code
-git clone https://github.com/your-username/face-recognition-algo.git
+git clone (https://github.com/Manpreet-kour/Face_recognition.git)
 cd face-recognition-algo
 Install dependencies:
 Make sure you have Python installed. Then, install the required Python packages:
